@@ -1,0 +1,15 @@
+/* DOCTYPE css */
+
+body {
+	background-color: #e0e0eb;
+	padding: 50px 30px 50px 80px;
+}
+
+h1 {
+	text-align: center;
+}
+
+div {
+	width: 500px;
+	text-indent: 20px;
+}
